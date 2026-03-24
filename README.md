@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hello! I’m Tanya Stoyanova
 
 **QA Engineer Trainee | Manual & API Testing | Varna, Bulgaria**  
