@@ -14,7 +14,4 @@ Manual testing project including bug reports, test cases, severity assessment, a
 
 ## Education & Certifications
 - Software University – QA Fundamentals, Manual Testing, Back-End Test Automation  
-- Technical University of Varna – Master’s in Electronics  
-
-## Contact
-[Email](mailto:tanjatyt@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanya-stoyanova-825174297)
+- Technical University of Varna – Master’s in Electronics 
