@@ -1,4 +1,4 @@
-# 👋 Hello! I’m Tanya Stoyanova
+# Hello! I’m Tanya Stoyanova
 
 **QA Engineer Trainee | Manual & API Testing | Varna, Bulgaria**  
 
@@ -6,22 +6,15 @@
 
 ---
 
-## 🛠 Skills
-Manual Testing, API Testing (Postman, RestSharp), NUnit, C#, SQL, Jira, Trello, SDLC, Bug Reporting
+## Skills
+Manual Testing • API Testing • Postman • C# • NUnit • SQL • Jira • Bug Reporting
 
 ---
 
-## 📂 Highlight Project
+## Highlight Project
 ### Evergreen Cottages – Manual Testing
 [GitHub Repository](https://github.com/TanjaTYT/evergreen-cottages-manual-testing)  
-- Exploratory testing Desktop & Mobile  
-- Defect reports, UX recommendations, test case documentation  
-
----
-
-## 💼 Work Experience
-**Operations & Quality Manager – GRAFIT PASTEL ltd (2012–2024)**  
-**Advertising Consultant – EL Media ltd (2003–2009)**  
+Manual testing project including bug reports, test cases, severity assessment, and desktop/mobile defect analysis. 
 
 ---
 
